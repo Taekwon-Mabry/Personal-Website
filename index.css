@@ -1,0 +1,27 @@
+#Contacts{
+    list-style: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#Contacts li{
+    float:left;
+    padding: 16px;
+}
+#main_panel{
+    display: flex;
+}
+
+#left_panel{
+    background-color: red;
+}
+
+#right_panel{
+    background-color: blue;
+}
+
+button{
+    outline: none;
+}
+
