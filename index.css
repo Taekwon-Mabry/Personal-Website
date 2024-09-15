@@ -21,6 +21,7 @@ img{
 }
 #main_panel{
     display: flex;
+    margin: 5%;
     align-items: center;
 }
 
